@@ -8,6 +8,7 @@ Voters can vote for one of the following options:
 2) BJP (Bharatiya Janata Party)
 3) ADP (Aam Aadmi Party)
 4) NOTA (None Of The Above)
+
 --> The program counts votes for each option.
 --> The result is displayed with the number of votes for each option.
 --> If there is a tie between any two or more options, it will show a message indicating the tie.
