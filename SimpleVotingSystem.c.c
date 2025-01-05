@@ -29,7 +29,7 @@ int main()
 {
     // Prompt for voting options
 
-    printf("Enter 1 to vote CON()Ongress");
+    printf("Enter 1 to vote CON(Congress");
     printf("\nEnter 2 to vote BJP(Bhartuya Janta Party)");
     printf("\nEnter 3 to vote ADP(Aam Aadmi Party)");
     printf("\nEnter any number to vote NOTA(None Of The Above)\n");
