@@ -29,16 +29,16 @@ int main()
 {
     // Prompt for voting options
 
-    printf("Enter 1 to vote CON");
-    printf("\nEnter 2 to vote BJP");
-    printf("\nEnter 3 to vote ADP");
-    printf("\nEnter any number to vote NOTA\n");
+    printf("Enter 1 to vote CON()Ongress");
+    printf("\nEnter 2 to vote BJP(Bhartuya Janta Party)");
+    printf("\nEnter 3 to vote ADP(Aam Aadmi Party)");
+    printf("\nEnter any number to vote NOTA(None Of The Above)\n");
 
     int n,b[4]= {0},i;// Initialize vote counters for 4 options (CON, BJP, ADP, NOTA)
 
 
     // Input number of voters
-    printf("\nEnter number of candidates : ");
+    printf("\nEnter number of Candidates : ");
     scanf("%d",&n);
     int a[n];
 
